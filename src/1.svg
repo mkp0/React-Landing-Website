@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.1.0.16-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="375pt" height="375pt" viewBox="0 0 375 375">
+ <defs>
+	</defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -375)">
+   <g id="Layer 1">
+    <path d="M 57.328,106.463 L 57.278,106.505 L 57.246,106.561 C 24.568,162.979 26.895,214.171 63.553,277.905 L 63.617,278.016 L 63.735,278.065 C 74.306,282.45 77.056,268.847 69.53,266.937 L 68.129,266.751 L 63.399,256.915 C 41.414,208.808 38.162,164.603 61.237,120.515 L 63.613,116.149 L 64.39,116.165 C 69.282,115.959 70.559,111.178 69.295,107.665 C 67.891,103.763 63.444,101.264 57.328,106.463 Z M 68.589,107.918 C 69.85,111.42 68.362,115.792 63.422,115.397 L 63.184,115.378 L 63.066,115.586 C 35.43,164.515 40.399,213.419 67.544,267.263 L 67.645,267.464 L 67.869,267.469 C 75.782,267.664 74.397,279.898 65.83,277.957 L 64.134,277.408 L 60.877,271.611 C 28.62,212.762 26.497,164.532 54.948,112.185 L 57.861,106.995 L 57.813,107.034 C 63.581,102.131 67.384,104.57 68.589,107.918 Z" stroke-width="0.5" stroke="none" fill="#000000" fill-rule="evenodd" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 302.423,113.365 C 293.445,112.831 296.245,98.075 306.789,102.887 C 343.059,168.476 341.787,221.402 304.459,275.479 C 292.233,285.159 287.123,264.357 297.765,265.583 C 330.767,220.488 329.227,169.194 302.423,113.365 Z" stroke-linejoin="miter" fill="#ffffff" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 107.05,72.698 C 106.516,81.676 91.76,78.876 96.572,68.332 C 162.161,32.062 215.087,33.334 269.164,70.662 C 278.844,82.89 258.042,87.998 259.27,77.356 C 214.173,44.354 162.879,45.894 107.05,72.698 Z" stroke-linejoin="miter" fill="#ffffff" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 107.05,311.066 C 106.516,302.088 91.76,304.888 96.572,315.432 C 162.161,351.702 215.087,350.43 269.164,313.102 C 278.844,300.874 258.042,295.766 259.27,306.408 C 213.429,339.41 162.621,337.87 107.05,311.066 Z" stroke-linejoin="miter" fill="#ffffff" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 157.301,232.445 L 208.675,231.617 C 211.293,266.387 223.646,293.07 252.592,303.708 L 258.394,307.022 C 208.677,337.664 158.959,337.186 109.24,311.164 L 114.212,306.194 C 142.534,290.982 158.407,264.607 157.301,232.445 Z" fill="#ffffff" stroke-width="0.75" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 156.926,230.074 L 208.675,231.617 C 211.293,266.387 223.646,293.07 252.592,303.708 L 258.394,307.022 C 211.882,339.8 159.919,337.826 109.24,311.164 L 114.212,306.194 C 142.534,290.982 158.032,262.236 156.926,230.074 Z" fill="#000000" stroke-linejoin="miter" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 156.471,150.551 L 207.845,151.379 C 210.461,116.609 222.816,89.926 251.762,79.288 L 257.564,75.974 C 214.416,44.237 160.034,45.492 108.41,71.832 L 113.382,76.802 C 141.704,92.014 157.577,118.387 156.471,150.551 Z" fill="#000000" stroke-linejoin="miter" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 223.301,162.95 L 223.936,214.696 C 258.706,217.314 285.389,229.669 296.027,258.615 L 299.341,264.415 C 329.983,214.698 329.505,164.98 303.483,115.263 L 298.513,120.233 C 283.301,148.555 255.465,164.056 223.301,162.95 Z" fill="#000000" stroke-linejoin="miter" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 142.676,164.45 L 142.87,215.524 C 108.1,218.142 81.417,230.497 70.779,259.443 L 67.465,265.245 C 36.823,215.526 37.301,165.808 63.323,116.091 L 68.293,121.061 C 83.505,149.385 110.512,165.556 142.676,164.45 Z" fill="#000000" stroke-linejoin="miter" stroke-width="0.75" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <g id="Group" stroke-width="0.75" fill="#ffffff" stroke-miterlimit="79.8403193612775">
+     <g id="Group_1">
+      <g id="Group_2">
+       <path d="M 166.41,294.596 L 183.11,192.839 L 199.812,294.594 L 166.41,294.596 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 166.41,294.595 L 183.11,280.957 L 199.812,294.593 L 166.41,294.595 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 183.113,282.475 L 183.113,196.816" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000"/>
+      </g>
+      <g id="Group_3">
+       <path d="M 166.408,85.941 L 183.108,187.698 L 199.81,85.943 L 166.408,85.941 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 166.408,85.942 L 183.108,99.58 L 199.81,85.944 L 166.408,85.942 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 183.111,98.065 L 183.111,183.724" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000"/>
+      </g>
+     </g>
+     <g id="Group_4">
+      <g id="Group_5">
+       <path d="M 78.784,173.567 L 180.541,190.267 L 78.786,206.969 L 78.784,173.567 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 78.783,173.567 L 92.421,190.267 L 78.785,206.969 L 78.783,173.567 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 90.906,190.27 L 176.569,190.27" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000"/>
+      </g>
+      <g id="Group_6">
+       <path d="M 287.437,173.565 L 185.68,190.265 L 287.435,206.967 L 287.437,173.565 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 287.438,173.565 L 273.8,190.265 L 287.436,206.967 L 287.438,173.565 Z" stroke-linejoin="miter" marker-start="none" marker-end="none"/>
+       <path d="M 275.318,190.268 L 189.657,190.268" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000"/>
+      </g>
+     </g>
+    </g>
+    <g id="Group_7" fill="#ffffff">
+     <path d="M 143.361,231.033 L 143.361,150.996 L 223.398,150.996 L 223.398,231.033 L 143.361,231.033 Z" stroke-width="0.75" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 221.914,229.961 L 144.852,152.067" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 144.022,229.961 L 222.742,152.067" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+     <path d="M 157.913,216.481 L 157.913,165.548 L 208.846,165.548 L 208.846,216.481 L 157.913,216.481 Z" stroke-width="0.75" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    </g>
+    <path d="M 167.189,239.075 C 166.315,261.479 159.469,282.439 143.158,300.394 C 145.672,309.884 149.98,308.622 154.759,304.538 C 164.151,315.422 173.541,315.422 182.933,304.538 C 195.417,319.418 204.331,318.814 210.277,305.366 C 214.419,311.444 218.562,308.874 222.706,303.71 C 208.379,284.287 201.059,262.857 201.991,239.075" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 166.361,141.563 C 165.401,117.071 158.735,95.921 142.328,80.244 C 144.844,70.754 149.15,72.016 153.931,76.1 C 163.321,65.216 172.713,65.216 182.105,76.1 C 194.587,61.22 203.501,61.826 209.449,75.272 C 213.591,69.194 217.734,71.764 221.878,76.928 C 207.551,96.351 200.231,117.781 201.161,141.563" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 235.002,174.578 C 257.316,172.264 278.492,166.24 296.321,150.547 C 305.811,153.061 304.549,157.369 300.465,162.148 C 311.347,171.54 311.347,180.93 300.465,190.322 C 315.345,202.806 314.739,211.72 301.293,217.666 C 307.371,221.81 304.801,225.953 299.637,230.095 C 280.212,215.77 258.784,208.448 235.002,209.38" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 131.688,173.75 C 107.068,174.102 86.182,166.98 70.369,149.719 C 60.879,152.233 62.141,156.543 66.225,161.32 C 55.341,170.712 55.341,180.102 66.225,189.494 C 51.345,201.978 51.951,210.892 65.397,216.838 C 59.319,220.98 61.889,225.125 67.053,229.267 C 86.476,214.94 107.906,207.62 131.688,208.552" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="79.8403193612775"/>
+    <g id="Group_8" stroke-linejoin="miter" stroke-width="1.5" stroke-miterlimit="79.8403193612775">
+     <path d="M 414.985,188.473 L 564.986,38.472 L 714.987,188.473 L 564.986,338.473 L 414.985,188.473 Z" fill="#000000" marker-start="none" marker-end="none"/>
+     <path d="M 564.986,60.971 L 504.256,121.701 L 538.764,121.701 L 538.764,166.702 L 493.763,166.702 L 493.763,132.194 L 437.485,188.474 L 493.763,244.752 L 493.763,208.702 L 538.764,208.702 L 538.764,253.702 L 502.714,253.702 L 564.986,315.975 L 627.258,253.702 L 589.764,253.702 L 589.764,208.702 L 634.765,208.702 L 634.765,246.196 L 692.487,188.474 L 634.765,130.75 L 634.765,166.702 L 589.764,166.702 L 589.764,121.701 L 625.714,121.701 L 564.986,60.971 Z" fill="#ffffff" marker-start="none" marker-end="none"/>
+    </g>
+   </g>
+   <g id="cross13.wmf"/>
+  </g>
+ </g>
+</svg>
